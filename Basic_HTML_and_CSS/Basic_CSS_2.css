@@ -1,0 +1,9 @@
+p {
+	color: aqua;
+	background: indigo;
+	font-weight: bold;
+	text-align: left;
+}
+h1 {
+	text-shadow: 2px 2px 8px #FA8072;
+}
